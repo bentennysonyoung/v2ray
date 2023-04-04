@@ -1,6 +1,6 @@
 <div class="post-content">
 <p>支持 V2Ray 绝大多数传输协议，WebSocket + TLS，HTTP/2，Shadowsocks，动态端口，集成 BBR 和锐速优化等。</p>
-
+<p>vultr服务器已安装成功，测试连接失败，net/http:TLS handshake timeout 问题解决方案： <a href="https://github.com/233boy/v2ray/issues/813#issuecomment-1140267160>近期无法连接的问题</a></p>
 <h2 id="前言">前言</h2>
 
 <p>V2Ray 官网：<a href="https://www.v2ray.com" rel="nofollow" target="_blank">https://www.v2ray.com</a></p>
